@@ -1,3 +1,0 @@
-OUTPUT
-
-Files attached for sample output
